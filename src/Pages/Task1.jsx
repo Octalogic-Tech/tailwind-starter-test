@@ -14,7 +14,7 @@ function App() {
           <img
             src="https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g"
             alt="Descriptive Alt Text"
-            className="object-cover w-full h-full"
+            className="object-cover h-full w-full grayscale transition duration-300 hover:grayscale-0   "
           />
         </div>
       </div>
